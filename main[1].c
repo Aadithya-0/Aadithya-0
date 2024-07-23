@@ -7,6 +7,7 @@ void dend(int a[50],int *n);
 void dpos(int a[50],int *n);
 void del(int a[50],int *n);
 void display(int a[50],int n);
+//basic program to grasp the concept of arrays
 void main()
 { int a[50],x,n,i;
    printf("Enter the no of elements = ");
