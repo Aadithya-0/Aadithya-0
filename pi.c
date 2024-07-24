@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//to approximate the value of pi to n number of digits
 int main() {
     int n;
     printf("Enter the number of digits: ");
