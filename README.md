@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA,C,Python
 - 📫 How to reach me aadithyasreedevi@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:i am extremely funny
+- ⚡ Fun fact:i was ranked #1 globally on subway surfers for 2 weeks
 
 <!---
 Aadithya-0/Aadithya-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
