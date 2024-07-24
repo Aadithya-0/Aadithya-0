@@ -41,7 +41,8 @@ switch(x)
                break;                                                                           
   }
  }    
-}               
+}
+//func to insert at beginning
 void ibegin(int a[50],int *n){ 
    for(int i=*n;i!=0;i--)
       a[i]=a[i-1];
