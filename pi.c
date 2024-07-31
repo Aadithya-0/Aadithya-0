@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 //to approximate the value of pi to n number of digits
-int main() {
+void main() {
     int n;
     printf("Enter the number of digits: ");
     scanf("%d", &n);
@@ -11,6 +11,4 @@ int main() {
 
     // Print with desired precision
     printf("Pi to %d digits: %.15lf\n", n, pi);
-
-    return 0;
 }
