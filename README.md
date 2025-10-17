@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadithya-0
 - 👀 I’m interested in MOTORSPORTS AND TECH
-- 🌱 I’m currently learning JAVA,C,Python
+- 🌱 I’m currently learning JAVA,C,Python,JAVASCRIPT,ASSEMBLY
 - ⚙️ I'm currently working on "A Robust Backend Service for Showtime Management, Secure Bookings, and User Reviews"
 - 📫 How to reach me aadithyasreedevi@gmail.com
 - 😄 Pronouns: he/him
