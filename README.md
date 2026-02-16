@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aadithya-0
-- 👀 I’m interested in MOTORSPORTS AND TECH
-- 🌱 I’m currently learning JAVA,C,Python,JAVASCRIPT,ASSEMBLY
-- ⚙️ I'm currently working on "A Robust Backend Service for Showtime Management, Secure Bookings, and User Reviews"
+- 👋 Hi, I’m Aadithya
+- 👀 I’m interested in low-level programming,Scalable systems,Application oriented projects
+- 🌱 I’m currently learning Java,C,Python,JavaScript
+- ⚙️ I'm currently working on a windows application that mimicks google photos feature that sorts photos based on facial recognitoon
 - 📫 How to reach me aadithyasreedevi@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:i was ranked #1 globally on subway surfers for 2 weeks
